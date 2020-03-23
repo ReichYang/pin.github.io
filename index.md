@@ -21,7 +21,7 @@ To zoom in and see the larger version of the image, just click on the image thum
 -	Is Uploaded
 
 There is more metadata associated with each pin, to search the specific metadata, just type in any letter in the search box under the “Pin Info” and it will show you any metadata attributes start with this letter. For example, if you want to see the board linked with this pin, just type in b, and select “board”. Finally, press Enter to let the new attributes showed in the panel as a new entry. **You have to press enter to activate the attribute addition.**
-![alt text](https://github.com/ReichYang/dil-pin/blob/master/search.png "Search Example")
+![](https://github.com/ReichYang/dil-pin/blob/master/search.png)
 
 
 ### Download Images to the Server
