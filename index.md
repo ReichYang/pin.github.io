@@ -1,7 +1,7 @@
 # Instructions for the Pinterest Image Retrieval & Analysis Platform 
 This web application used an official Pinterest API to retrieve the data about the user and the images. Also, we provided functions to obtain some basic image properties and to analyze the images.
 
-##Login Page
+## Login Page
 First of all, you have to log in using your Pinterest email, username, and password. All of them have to correct to pass the Pinterest authentication. If you fail to log in (the page refreshes itself time after time), please refer to the error messages on the top of the screen. 
 
 ## Search Page
