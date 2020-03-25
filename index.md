@@ -1,7 +1,7 @@
 # Instructions for the Pinterest Image Retrieval & Analysis Platform 
 This web application uses a Pinterest API to retrieve data and images. It also provides functions to conduct some basic analysis of the images.
 
-##Login Page
+## Login Page
 To get started, you have to log in using your Pinterest email, username, and password. All of them have to correct to pass the Pinterest authentication. If any of the credentials are off, a notification will apeear. Please retry and double check your user information on Pinterest if necessary.
 
 ## Search Page
@@ -44,5 +44,6 @@ Our web application can show you some summary statistics about the images in a f
 -	Board Wordcloud
 -	Promoter Wordcloud
 -	Date Graph
+
 ### Download Analysis Results
 The analysis plots and their crude text data can be download to your local PC as well. Click the Download the Results of the Analysis button and all the associated analysis files and plots will be zipped up and downloaded.
