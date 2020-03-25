@@ -44,6 +44,6 @@ Our web application can show you some summary statistics about the images in a f
 -	Board Wordcloud
 -	Promoter Wordcloud
 -	Date Graph
-
+ 
 ### Download Analysis Results
 The analysis plots and their crude text data can be download to your local PC as well. Click the Download the Results of the Analysis button and all the associated analysis files and plots will be zipped up and downloaded.
