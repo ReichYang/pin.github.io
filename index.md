@@ -25,7 +25,7 @@ There is more metadata associated with each pin. To search the specific metadata
 
 
 ### Download Images to the Server
-After you search for terms you can download the images to the server. This will enable you to conduct additional analyses on the images. Click the button called “Download Images to the Server,” and it will automatically move all the returned images to the platform server. The number of the pictures downloaded will show on the button after all the downloads have finished. **IMPORTANT: You must select Download Images to Server before you can conduct any analysis of them.**
+After you search for terms you can download the images to the server. This will enable you to conduct additional analyses on the images. Click the button called “Download Images to the Server,” and it will automatically move all the returned images to the platform server. The number of the pictures downloaded will show on the button after all the downloads have finished. **IMPORTANT: You must select "Download Images to Server" before you can conduct any analysis of them.**
 
 ### Redirect to the Image Analysis Page
 After you have conducted one or more searches, click the “Go to the Analysis Page” button.
